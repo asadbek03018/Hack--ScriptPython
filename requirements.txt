@@ -1,0 +1,4 @@
+speedtest
+subprocess.run
+pyautogui
+art
